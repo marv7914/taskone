@@ -1,0 +1,12 @@
+/*marvellous elei 8903172*/ 
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height : 100vh;
+    background-color: hsla(215, 25%, 36%, 0.581);
+} 
+
+h2{
+    color : red;
+    font-size: 2em;
+}
